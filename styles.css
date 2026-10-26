@@ -2,7 +2,7 @@ div{
     padding: 20px;
      border:none;
 }
-div#main{
+div.container{
     margin: 10px 10px 10px 10px;
     box-sizing: content-box;
     width: 300px;
@@ -12,7 +12,7 @@ div#main{
     padding: 80px 80px;
     border-radius: 100px;
 }
-div#red{
+div.red{
      margin: 5px 1px 5px 1px;
     display: inline-block;
     width: 50px;
@@ -20,7 +20,7 @@ div#red{
     background-color: red;
     border-radius: 50%;
 }
-div#yellow{
+div.yellow{
     margin: 5px 1px 5px 1px;
     display: inline-block;
      width: 50px;
@@ -28,16 +28,11 @@ div#yellow{
     background-color: yellow;
     border-radius: 50%;
 }
-div#green{
+div.green{
     margin: 5px 1px 5px 1px;
     display: inline-block;
     width: 50px;
     height: 50px;
     background-color: green;
     border-radius: 50%; 
-}
-h1{
-    color: white;
-    text-decoration: underline;
-    font-size: 20px;
 }
