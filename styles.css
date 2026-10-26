@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+div{
+    padding: 100px;
+     border:none;
+}
+div#main{
+    width: 1030px;
+    margin: 100px;
+    background-color: rgb(181, 180, 180);
+    border: 10px solid black;
+    padding: 10%;
+    border-radius: 200px;
+}
+div#red{
+    margin: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+div#yellow{
+    margin: 20px;           
+    display: inline-block;
+     width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+div#green{
+    margin: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%; 
+}
+h1{
+    color: white;
+    text-decoration: underline;
+    font-size: 20px;
+}
